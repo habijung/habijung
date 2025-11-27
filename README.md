@@ -47,15 +47,11 @@
 
 ## Programming Languages
 
-![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&style=for-the-badge)&ensp;
-![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)&ensp;
-![OpenGL](https://img.shields.io/badge/-opengl-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
-
-## Tools
-
-![Notion](https://img.shields.io/badge/-notion-F7A81B?logo=notion&style=for-the-badge)&ensp;
-![Slack](https://img.shields.io/badge/-slack-4A154B?logo=slack&style=for-the-badge)&ensp;
-![Jira](https://img.shields.io/badge/-jira-0052CC?logo=jira&style=for-the-badge)
+![Objective-C](https://img.shields.io/badge/objective--c-9A5D9E?style=for-the-badge&logo=apple)&ensp;
+![Swift](https://img.shields.io/badge/swift-000000?style=for-the-badge&logo=swift)&ensp;
+![C++](https://img.shields.io/badge/c++-00599C?logo=cplusplus&style=for-the-badge)&ensp;
+![Python](https://img.shields.io/badge/python-308504?logo=python&logoColor=white&style=for-the-badge)&ensp;
+![OpenGL](https://img.shields.io/badge/opengl-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
 ## Education
 
