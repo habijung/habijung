@@ -1,27 +1,20 @@
 # ***Big Jump** - MJ Jeon*
 
-### About Me
+## About Me
 
-[![Blog](https://img.shields.io/badge/-blog(new)-21759B?logo=wordpress&style=for-the-badge)](https://habijung.com)&ensp;
-[![Mail](https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:habijung0@gmail.com)
+안녕하세요? 4년 차 소프트웨어 엔지니어 정하빈입니다.
 
-안녕하세요?
+저는 단순한 기능 구현을 넘어 사용자가 더욱 쉽고 편하게 사용할 수 있는 서비스를 만드는 것이 저의 목표입니다. 현재는 알서포트(RSUPPORT)에서 macOS 어플리케이션을 개발하고 있습니다.
 
-컴퓨터 그래픽스 및 Software Engineer 정하빈 입니다.
+감사합니다.
 
-늘 새로운 분야에 도전하는 것을 좋아하고, 앞으로 그래픽스 개발자로서 사람들이 온몸으로 체험하고 느낄 수 있는 작품을 만들고 새로운 세계와 영감을 전하고 싶습니다.
+## Interested In
 
-### Interested In
-
+- 💻 macOS/iOS Developments
 - 🎲 Computer Graphics
-- 🎨 Learn OpenGL
 - 📊 Algorithmic Trading
 
-### Projects
-
-- [**Wood Block**](https://github.com/habijung/wood-block.git) (Current)
-  > - Create wood blocks and decorate each floor.
-  > - C++, OpenGL
+## Projects
 
 - [**Simple 2D CAD**](https://github.com/habijung/simple-2d-cad)
   > - Create any line, shape and save or load in coordinate system.
@@ -35,10 +28,15 @@
   > - Escape the room and solve the password.
   > - C++, OpenGL
 
-### Working
+## Experience
 
-- **z-emotion** (2023.10 - Now)
-  > - **Software Engineer**, Dev. Team
+- **RSUPPORT** (2024.11 - Now)
+  > - **macOS Applicationm Developer**, Mac Dev. Team
+  > - Hompage: [RSUPPORT](https://rsupport.com)
+  > - Service: [RemoteView](https://rview.com)
+
+- **z-emotion** (2023.10 - 2024.10)
+  > - **Software Engineer**, ZW Dev. Team
   > - Hompage: [z-emotion](https://z-emotion.com)
   > - GitHub: [@z-emotion](https://github.com/z-emotion)
 
@@ -47,26 +45,22 @@
   > - Homepage: [ACON3D](https://aconed.com)
   > - GitHub: [@carpenstreet](https://github.com/carpenstreet)
 
-### Programming Languages
+## Programming Languages
 
 ![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&style=for-the-badge)&ensp;
 ![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)&ensp;
-![OpenGL](https://img.shields.io/badge/-opengl-5586A4?logo=opengl&logoColor=white&style=for-the-badge)&ensp;
-![RUST](https://img.shields.io/badge/-rust-000000?logo=rust&style=for-the-badge)
+![OpenGL](https://img.shields.io/badge/-opengl-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 
-### Tools
+## Tools
 
 ![Notion](https://img.shields.io/badge/-notion-F7A81B?logo=notion&style=for-the-badge)&ensp;
 ![Slack](https://img.shields.io/badge/-slack-4A154B?logo=slack&style=for-the-badge)&ensp;
 ![Jira](https://img.shields.io/badge/-jira-0052CC?logo=jira&style=for-the-badge)
 
-### Education
+## Education
 
 - **Academic Student** [**@UNIST**](https://unist.ac.kr) (2015.03 - 2022.02)
   > Department of **Computer Science** and **Electrical Engineering**
 
-- **Student @Jinhae Yongwon High School** (2012.03 - 2015.02)
-  > Department of **Natural Sciences**
-
 ---
-**Last updated:** 24.07.30
+**Last Updated:** 2025. 11. 27.
